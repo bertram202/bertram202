@@ -14,7 +14,7 @@ ___
 ***~~subitalic~~***
 
 ___
-#:neckbeard:
+# :neckbeard:
 
 > 1 lvl
 >> 2 lvl

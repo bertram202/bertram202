@@ -17,15 +17,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60"/>                 
 
---- 
-
-**bold** *italic* ***bitalic*** ~~su~~ ***~~subitalic~~***
-
 ___
+
 # :neckbeard:
 
-> 1 уровень
->> 2 уровень
+> 1 уровень **bold** *italic* ~~strikethrough~~
+>> 2 уровень ***bitalic*** ***~~stribitalic~~***
 
 ___
 
@@ -50,10 +47,10 @@ ___
     + wefwefw 3.2.1
   
 1. kwekfkwe 1
-1. kwekfkwe 2
-1. kwekfkwe 3
+2. kwekfkwe 2
+3. kwekfkwe 3
    1. kwekfkwe 3.1
-1. kwekfkwe 4
+4. kwekfkwe 4
 
 ---
 

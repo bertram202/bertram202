@@ -24,12 +24,12 @@
 ___
 # :neckbeard:
 
-> 1 lvl
->> 2 lvl
+> 1 уровень
+>> 2 уровень
 
 ___
 
-Текст и внутри расположен `a = false` и всё
+Текст и внутри расположен код `a = false` и всё
 
 ```python
 import socket
@@ -64,7 +64,7 @@ ___
 
 [My GitHub](https://github.com/ismailbayramov)
 
-![My Gif](https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d6058b1692955cc.gif)
+![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
 
 ---
 

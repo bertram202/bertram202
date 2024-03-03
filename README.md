@@ -14,7 +14,7 @@ ___
 ***~~subitalic~~***
 
 ___
-:vhs:
+#:neckbeard:
 
 > 1 lvl
 >> 2 lvl
@@ -50,7 +50,8 @@ ___
 - [X] IJOQEFOKEWF
 - [ ] IJOQEFOKEWF
   
-https://github.com/ismailbayramov,  "My GitHub"
+[My GitHub](https://github.com/ismailbayramov)
+
 ![My Icon](https://avatars.githubusercontent.com/u/68940438?v=4, "My Icon")
 
 ![My Gif](https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif)

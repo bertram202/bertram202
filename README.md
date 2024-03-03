@@ -3,15 +3,7 @@
 
 ___
 
-**bold**
-
-*italic*
-
-***bitalic***
-
-~~su~~
-
-***~~subitalic~~***
+**bold** *italic* ***bitalic*** ~~su~~ ***~~subitalic~~***
 
 ___
 # :neckbeard:
@@ -45,11 +37,15 @@ ___
 1. kwekfkwe 2
 1. kwekfkwe 3
    1. kwekfkwe 3.1
-2. kwekfkwe 4
+1. kwekfkwe 4
+
+---
 
 - [X] IJOQEFOKEWF
 - [ ] IJOQEFOKEWF
   
+---
+
 [My GitHub](https://github.com/ismailbayramov)
 
 ![My Icon](https://avatars.githubusercontent.com/u/68940438?v=4, "My Icon")
@@ -62,6 +58,8 @@ ___
 |------|------|------|
 |адын адын|дыва адын|тири адын|
 |адын дыва|дыва дыва|тири дыва|
+
+---
 
 [Сайт для шилдов](https://shields.io, "Клик")
 

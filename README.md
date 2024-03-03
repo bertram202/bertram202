@@ -1,6 +1,6 @@
 # **Hi there** 👋
 
-[My GitHub](https://github.com/ismailbayramov)
+[My GitHub :neckbeard:](https://github.com/ismailbayramov)
 
 ![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
 
@@ -50,8 +50,6 @@ server.listen()
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/ds?style=flat&logo=github&label=test%20shield&labelColor=blue&color=yellow)
 
 ___
-
-# :neckbeard:
 
 > 1 уровень **bold** *italic* ~~strikethrough~~
 >> 2 уровень ***bitalic*** ***~~stribitalic~~***

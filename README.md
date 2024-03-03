@@ -1,5 +1,11 @@
 # **Hi there** 👋
 
+[My GitHub](https://github.com/ismailbayramov)
+
+![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
+
+---
+
 **My stack:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
@@ -31,12 +37,6 @@ server.listen()
 ```
 
 --- 
-
-[My GitHub](https://github.com/ismailbayramov)
-
-![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
-
----
 
 | адын | дыва | тири |
 |------|------|------|

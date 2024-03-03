@@ -19,13 +19,6 @@
 
 ___
 
-# :neckbeard:
-
-> 1 уровень **bold** *italic* ~~strikethrough~~
->> 2 уровень ***bitalic*** ***~~stribitalic~~***
-
-___
-
 Текст и внутри расположен код `a = false` и всё
 
 ```python
@@ -36,6 +29,32 @@ server.bind(("192.168.0.201", 12343))
 
 server.listen()
 ```
+
+--- 
+
+[My GitHub](https://github.com/ismailbayramov)
+
+![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
+
+---
+
+| адын | дыва | тири |
+|------|------|------|
+|адын адын|дыва адын|тири адын|
+|адын дыва|дыва дыва|тири дыва|
+
+---
+
+[Сайт для шилдов](https://shields.io, "Клик")
+
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/ds?style=flat&logo=github&label=test%20shield&labelColor=blue&color=yellow)
+
+___
+
+# :neckbeard:
+
+> 1 уровень **bold** *italic* ~~strikethrough~~
+>> 2 уровень ***bitalic*** ***~~stribitalic~~***
 
 ___
 
@@ -57,22 +76,3 @@ ___
 - [X] IJOQEFOKEWF
 - [ ] IJOQEFOKEWF
   
----
-
-[My GitHub](https://github.com/ismailbayramov)
-
-![My Gif](https://lh6.googleusercontent.com/proxy/7aFY-n4lfZgKqn4ZyzGyzZJ9cDcWTJ2fZwSijkvmGe55KV0F7NK3aWBTcJpIVf3NoI7HAk9N86sjeDioi5L_heNmd9BOLi6r96VVwK8RXfLqHYFhBRql9aAKQokoSOlgXMyMUfkz)
-
----
-
-| адын | дыва | тири |
-|------|------|------|
-|адын адын|дыва адын|тири адын|
-|адын дыва|дыва дыва|тири дыва|
-
----
-
-[Сайт для шилдов](https://shields.io, "Клик")
-
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/ds?style=flat&logo=github&label=test%20shield&labelColor=blue&color=yellow)
-

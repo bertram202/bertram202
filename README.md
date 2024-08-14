@@ -4,20 +4,20 @@
 ---
 
 ## Имя:
-*Исмаил Байрамов*
+*Исмаил*
 
 
 ## Контактная информация:
 - Email: *bajramovismail@gmail.com*
 - Телефон: *+79825428823*
-- GitHub: [ismailbayramov](https://github.com/ismailbayramov)
+- GitHub: [bertram202](https://github.com/ismailbayramov)
 
 ---
 
 ## Профессиональные навыки
 - **Языки программирования**: Python, JavaScript, TypeScript, C
-- **Фреймворки и библиотеки**: Nuxt.js, Next.js, FastAPI
-- **Базы данных**: PostgreSQL
+- **Фреймворки и библиотеки**: Nuxt.js, Next.js, FastAPI, Vue.js, React.js 
+- **Базы данных**: PostgreSQL, SQLite
 - **Дополнительно**: Arduino
 
 ---

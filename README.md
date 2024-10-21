@@ -3,13 +3,10 @@
 
 ---
 
-## Имя:
-*Исмаил*
-
-
 ## Контактная информация:
-- Email: *bajramovismail@gmail.com*
-- Телефон: *+79825428823*
+- Email: bajramovismail@gmail.com
+- Telegram: @asscsharp
+- Телефон: +79825428823
 - GitHub: [bertram202](https://github.com/bertram202)
 
 ---

@@ -5,7 +5,7 @@
 
 ## Контактная информация:
 - Email: bajramovismail@gmail.com
-- Telegram: @asscsharp
+- Telegram: @doshinsky
 - Телефон: +79825428823
 - GitHub: [bertram202](https://github.com/bertram202)
 
@@ -20,6 +20,10 @@
 ---
 
 ## Опыт работы
+
+### Frontend-разработчик
+*Август 2025 – Ноябрь 2025*
+- Разрабатывал SPA-приложение на React 18, TypeScript и Vite. Использовал Zustand для состояния, React Query для работы с API, React Hook Form + Zod для форм и валидации. Создавал адаптивный интерфейс на Tailwind CSS с компонентами Radix UI и анимациями Framer Motion. Интегрировал Telegram WebApp SDK, реализовывал графики (Recharts), карусели (Embla) и защищённую работу с данными (crypto-js). Настраивал сборку, линтинг и качество кода (ESLint, SWC).
 
 ### Компьютерный клуб WELL - Fullstack-разработчик
 *Ноябрь 2023 – Май 2024*
